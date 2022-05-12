@@ -1,2 +1,2 @@
-# apache2-request-process-time-measurement
+# Apache2 request process time measurement application
 Application which measures Apache2 request process time using two timestamping methods
